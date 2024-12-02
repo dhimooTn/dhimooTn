@@ -17,7 +17,7 @@
 
 ## 💻 Skills
 - **Programming Languages**:  
-  - C, C#, PHP  
+  - C, C#, PHP,HTML,CSS,JS,JAVA,PYTHON
 - **Database Management**:  
   - Oracle, Microsoft SQL Server  
 - **Web Development**:  
