@@ -16,35 +16,30 @@
 ---
 
 ## 💻 Skills
-- Front-end development (currently learning and growing!)  
-- AI-powered projects (e.g., chatbot development).  
-- Building Java applications, like an **event management system**.  
+- **Programming Languages**:  
+  - C, C#, PHP  
+- **Database Management**:  
+  - Oracle, Microsoft SQL Server  
+- **Web Development**:  
+  - Front-end development (currently learning and growing!)  
+- **AI and Problem Solving**:  
+  - AI foundations, algorithm design, problem-solving  
+- **Mathematical and Analytical Skills**:  
+  - Mathematical reasoning, AI-focused computations  
+- **Digital Marketing**:  
+  - Understanding of digital marketing principles  
 
 ---
 
 ## 🌟 Let's Connect!
-[![LinkedIn Badge](https://img.shields.io/badge/-Boukhdhir%20Ahmed%20Dhia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhimoo) 
-[![Instagram Badge](https://img.shields.io/badge/-@dhimooTn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhimooTn/)
-[![Gmail Badge](https://img.shields.io/badge/-ahmed.dhia.boukhdhir@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmed.dhia.boukhdhir@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Boukhdhir%20Ahmed%20Dhia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boukhdhirahmeddhia/)  
+[![Instagram Badge](https://img.shields.io/badge/-@dhiee_bk-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dhiee_bk/)  
+[![Gmail Badge](https://img.shields.io/badge/-boukhdhirdhia@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boukhdhirdhia@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimooTn&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimooTn&layout=compact&theme=algolia)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhimooTn&show_icons=true&theme=algolia)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhimooTn&theme=algolia)
 
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhimooTn&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-_Last Edited on: 02/12/2024_
 
