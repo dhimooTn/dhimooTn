@@ -21,7 +21,7 @@
 - **Database Management**:  
   - Oracle, Microsoft SQL Server  
 - **Web Development**:  
-  - Front-end development (currently learning and growing!)  
+  - PHP, HTML, CSS, JS
 - **AI and Problem Solving**:  
   - AI foundations, algorithm design, problem-solving  
 - **Mathematical and Analytical Skills**:  
